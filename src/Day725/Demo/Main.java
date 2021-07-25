@@ -1,4 +1,4 @@
-package Day725.fuxie.Demo;
+package Day725.Demo;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Day725.fuxie.DemoConstructor;
+package Day725.DemoConstructor;
 
 public class Zi extends Fu{
     public Zi() {

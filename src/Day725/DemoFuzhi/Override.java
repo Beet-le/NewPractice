@@ -1,4 +1,4 @@
-package Day725.fuxie;
+package Day725.DemoFuzhi;
 
 public class Override {
     
