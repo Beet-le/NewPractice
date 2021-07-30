@@ -6,5 +6,7 @@ public class MainInterface {
         A.methodABS();
         A.methodDefault();
         A.methodDefault2();
+        MyinterFaceDefaultB B=new MyinterFaceDefaultB();
+        B.methodABS();
     }
 }
