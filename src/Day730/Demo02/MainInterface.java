@@ -5,8 +5,8 @@ public class MainInterface {
         MyinterFaceDefaultA A=new MyinterFaceDefaultA();
         A.methodABS();
         A.methodDefault();
-        A.methodDefault2();
         MyinterFaceDefaultB B=new MyinterFaceDefaultB();
         B.methodABS();
+        B.methodDefault();
     }
 }

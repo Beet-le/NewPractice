@@ -6,7 +6,5 @@ public interface MyInterfaceDefault {
     public default void methodDefault(){
         System.out.println("这是添加的默认方法");
     }
-    public default void methodDefault2(){
-        System.out.println("这是添加的默认方法2");
-    }
+
 }

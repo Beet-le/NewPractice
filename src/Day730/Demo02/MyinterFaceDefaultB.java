@@ -12,4 +12,8 @@ public class MyinterFaceDefaultB implements MyInterfaceDefault{
     public void methodABS2() {
 
     }*/
+    @Override
+    public  void methodDefault(){
+        System.out.println("这是添加的默认方法3");
+    }
 }
