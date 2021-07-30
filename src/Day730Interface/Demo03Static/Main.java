@@ -1,4 +1,4 @@
-package Day730.Demo03;
+package Day730Interface.Demo03Static;
 
 public class Main {
     public static void main(String[] args) {

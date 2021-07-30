@@ -1,4 +1,4 @@
-package Day730.Demo02;
+package Day730Interface.Demo02Defeat;
 
 public interface MyInterfaceDefault {
     public abstract void methodABS();

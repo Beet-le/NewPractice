@@ -1,4 +1,4 @@
-package Day730.Demo01;
+package Day730Interface.Demo01;
 
 public  interface MyInterface {
     public abstract void method01();

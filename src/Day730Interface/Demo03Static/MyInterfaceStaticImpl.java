@@ -1,4 +1,4 @@
-package Day730.Demo03;
+package Day730Interface.Demo03Static;
 
 public class MyInterfaceStaticImpl implements MyInterfaceStatic {
 

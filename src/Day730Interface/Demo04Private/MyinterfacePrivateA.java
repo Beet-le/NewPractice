@@ -1,4 +1,4 @@
-package Day730.Demo04Private;
+package Day730Interface.Demo04Private;
 
 public interface MyinterfacePrivateA {
     default void methodDefault1(){

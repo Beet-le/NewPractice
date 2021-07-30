@@ -1,4 +1,4 @@
-package Day730.Demo01;
+package Day730Interface.Demo01;
 
 public class MyInterFaceAbstrictImpl implements MyInterface{
 
