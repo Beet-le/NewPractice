@@ -1,4 +1,5 @@
 package Day730.Demo02;
 
-public class MyInterfaceDefault {
+public interface MyInterfaceDefault {
+    public abstract void methodABS();
 }
