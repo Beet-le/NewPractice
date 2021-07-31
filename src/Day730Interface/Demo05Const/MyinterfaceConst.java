@@ -1,4 +1,5 @@
 package Day730Interface.Demo05Const;
 
-public class MyinterfaceConst {
+public interface MyinterfaceConst {
+    public static final  int num=10;
 }
