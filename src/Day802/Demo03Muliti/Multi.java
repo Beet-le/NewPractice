@@ -5,5 +5,6 @@ public class Multi {
         //多态
         Fu obj=new Zi();
         obj.method();
+        obj.methodFu();
     }
 }
