@@ -8,5 +8,6 @@ public class Main {
         animal.eat();
         Cat cat =(Cat) animal;
         cat.catMouse();
+        Dog dog=(Dog) animal;
     }
 }
