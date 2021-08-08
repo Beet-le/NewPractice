@@ -7,5 +7,9 @@ public class Dog extends Animal{
     }
     public void watchHouse(){
         System.out.println("狗狗看家");
+
+    }
+    public void  Kanmeg(){
+        System.out.println("hahah");
     }
 }
