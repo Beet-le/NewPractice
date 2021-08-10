@@ -1,4 +1,4 @@
-package Day810.demo01;
+package Day810.Demo01Instanceof;
 
 public class Instanceof {
     public static void main(String[] args) {
@@ -12,9 +12,16 @@ public class Instanceof {
             Cat cat=(Cat) animal;
             cat.catMouse();
         }
-
+        GiveMeaPet(new Dog());
     }
     public static void GiveMeaPet(Animal animal){
-
+        if(animal instanceof Dog){
+            Dog dog=(Dog) animal;
+            dog.watchHouse();
+        }
+        if (animal instanceof Cat){
+            Cat cat=(Cat) animal;
+            cat.catMouse();
+        }
     }
 }

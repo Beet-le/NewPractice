@@ -1,4 +1,4 @@
-package Day810.demo01;
+package Day810.Demo01Instanceof;
 
 
 public class Cat extends Animal {
