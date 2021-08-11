@@ -11,6 +11,13 @@ public class Computer {
     //使用设备
     public void useDevice(USB usb){
         usb.open();
+        if(usb instanceof Mouse){
+            Mouse mouse=(Mouse) usb;
+            mouse.click();
+        }else if (usb instanceof Ketbord){
+            Ketbord ketbord=(Ketbord) usb;
+            ketbord.type();
+        }
         usb.close();
     }
 }
