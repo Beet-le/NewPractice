@@ -6,5 +6,6 @@ public class Zi extends Fu {
     public void methodAbs() {
         System.out.println("AbsTrict" +
                 "cc");
+        System.out.println("Asres");
     }
 }
