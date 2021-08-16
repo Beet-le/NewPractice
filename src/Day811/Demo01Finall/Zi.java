@@ -4,8 +4,6 @@ public class Zi extends Fu {
 
     @Override
     public void methodAbs() {
-        System.out.println("AbsTrict" +
-                "cc");
-        System.out.println("Asres");
+        System.out.println();
     }
 }
